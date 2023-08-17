@@ -1,2 +1,6 @@
 data/
+tmp/
 venv/
+
+cs
+sedona_demo.ipynb
